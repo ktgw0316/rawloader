@@ -1,0 +1,9 @@
+make = "FUJIFILM"
+model = "X-T200"
+clean_make = "Fujifilm"
+clean_model = "X-T200"
+blackpoint = 1024
+whitepoint = 16383
+color_matrix = [15055, -7391, -1274, -4062, 12071, 2238, -610, 1217, 6147]
+color_pattern = "RBGBRGGGRGGBGGBGGRBRGRBGGGBGGRGGRGGB"
+crops = [0,128,0,0]
